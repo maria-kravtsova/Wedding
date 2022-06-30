@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+
+body {
+background-color: #FBEFF2
+}
+
+a {
+  color: #fbacbe;
+  border: none;
+  font-family: "Dancing Script", serif;
+  font-size: 48px;
+  padding-right: 70px;
+  text-decoration: none
+
+}
+
+nav {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  margin-right: 150px;
+  margin-bottom: 0px
+}
+#RSVP-Form {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 450px;
+  font-family: "Dancing Script", serif;
+  font-size: 60px;
+  color: #DDEEF8
+
+}
+h2 {
+  text-align: center;
+  margin-top: 80px;
+  font-family: "Dancing Script", serif;
+  font-size: 50px;
+  color: #DDEEF8
+
+}
+h3 {
+  text-align: center;
+  margin-top: 80px;
+  font-family: "Dancing Script", serif;
+  font-size: 45px;
+  color: #DDEEF8
+
+}
+img{
+  display: block;
+  max-width: 100%;
+  position:absolute;
+  z-index: -1;
+  opacity: 80%;
+}
+main{
+  margin-top: 0px;
+}
